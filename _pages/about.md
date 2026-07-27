@@ -28,8 +28,6 @@ latest_posts:
   limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am fascinated both by how independent enterprises understand non-monetary social currencies and by the control they have over such currencies. More specifically, I am drawn to research conducted within competitive business ecosystems that seeks to harness the power of these currencies in order to improve their position within competitive markets.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My experience over the past three years developing and testing these ideas with 104 unique athletes operating as independent contractors has convinced me that the business ecosystem of elite mixed martial arts (MMA) and elite boxing is the ideal environment in which to continue this five-year research program. It provides a live laboratory for applied research into how independent enterprises compete for social dominance, organizational endorsement, and commercial advantage.

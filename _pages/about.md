@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
+  more_info: |
     <p><strong>IBSS</strong></p>
     <p>Unit G</p>
     <p>Elite Combat Sports<br>Business Ecosystems</p>

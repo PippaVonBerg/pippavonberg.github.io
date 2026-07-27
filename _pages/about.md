@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Institute for Business & Social Systems</p>
-    <p>Unit G · Elite Combat Sports & Business Ecosystems</p>
+    <p><strong>IBSS</strong></p>
+    <p>Unit G</p>
+    <p>Elite Combat Sports Business Ecosystems</p>
     <p>North America</p>
 
 selected_papers: true
